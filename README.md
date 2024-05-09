@@ -35,7 +35,7 @@ This repository aims to showcase the creativity and expertise of JavaScript deve
 2. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/your_username/amazing-javascript-projects.git
+    https://github.com/Pinku-code/JavaScript_Projects.git
     ```
 
 3. **Contribute Your Project:**
